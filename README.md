@@ -19,3 +19,13 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 * This week, we were introduce to a new topic which is the different Methods of proofs.
 * I was able to easily understand Direct Proof and Proof by Contraposition becuase it seems to be just like proving using mathematical ways.
 * I think the easiest among the methods so far is the Vacuous and Trivial Proofs. Because in Vacuous Proof, we just need to show that p is false so that the given statement is already proven and in Trivial Proof, q must be proven to be true so that the statement will be proven true.
+
+#WEEK 4
+* This week, we learned about Mathematical Induction.
+* Mathematical Induction includes two steps: 1.) Basis Step 2.) Direct Proof.
+* We were also introduced to Summation.
+* This one's quite confusing becausew we were given an example where we need to look for an equation. I'm not really good iin coming up with an equation for a certain example that's why I find this topic quite challenging.
+* Still, we need to prove that the equation we come up with is true using Mathematical Induction.
+* Then we were introduced with Recursive/Inductice Definition.
+* The first step is Basis step where we specify the value of the function at zero. And the  next step would be find an equation for finding the value of the integer.
+* Lastly, we were inrtoduced to Recursive Definition --an algorithm is recursive  if it solves a problem by reducing it to an instance of the same problem with smaller input.
