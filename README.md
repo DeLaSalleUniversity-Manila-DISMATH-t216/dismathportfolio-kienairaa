@@ -29,3 +29,10 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 * Then we were introduced with Recursive/Inductice Definition.
 * The first step is Basis step where we specify the value of the function at zero. And the  next step would be find an equation for finding the value of the integer.
 * Lastly, we were inrtoduced to Recursive Definition --an algorithm is recursive  if it solves a problem by reducing it to an instance of the same problem with smaller input.
+
+#WEEK 5
+* This week, we discussed the last method of proof which is the Proof by Equivalence.
+* This proof is quite easy beacuse it is just proving that a biconditional is true using the other methods of proof.
+* now, we had Mathematical Induction.
+* We were also introduced to Recursive and Inductive Definition.
+* Recursive Algorithm and Program correctness were also introduced to us.
