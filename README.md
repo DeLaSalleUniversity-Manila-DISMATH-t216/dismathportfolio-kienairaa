@@ -22,7 +22,9 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 
 #WEEK 4
 * This week, we learned about Mathematical Induction.
-* Mathematical Induction includes two steps: 1.) Basis Step 2.) Direct Proof.
+* Mathematical Induction includes two steps: 
+  * 1.) Basis Step 
+  * 2.) Direct Proof.
 * We were also introduced to Summation.
 * This one's quite confusing becausew we were given an example where we need to look for an equation. I'm not really good iin coming up with an equation for a certain example that's why I find this topic quite challenging.
 * Still, we need to prove that the equation we come up with is true using Mathematical Induction.
@@ -36,3 +38,36 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 * now, we had Mathematical Induction.
 * We were also introduced to Recursive and Inductive Definition.
 * Recursive Algorithm and Program correctness were also introduced to us.
+
+#WEEK 6
+* We continued the discussion about program correctness where we need to prove that the program always gives the correct output.
+* There are two step two verify a program:
+  * 1.) show that the correct answer is obtained if the program teminates (prgram correctness) and 
+  * 2.) show that the program always terminates.
+* I also learned about Initial Assertion which hives the properties the the input must have, and the Final Assertion which the output must have.
+* I also learned about the Hoare Triple: *p{S}q*.
+* The use of the Rules of Inference with Program Correctness was also taught.
+* I also learned about Zeno's Paradox and the Power Series.
+* I discovered about the Set Theory and what a Power Set is and what Cardinality means.
+* Then we also discussed the Set Theory.
+* I learned that in a Set, the order and the quantity is not important in knowing if two sets is the same as long as they have the same elements in it.
+* We also reviewed the Venn Diagram, which also includes the Set Operations:
+  * Union
+  * Intersection
+  * Set Difference
+  * Symetric Difference
+* I also learned that if all elements of Set A are also elements of B, then set a is a subset of B.
+* Power Set were also introduced to our class.
+* Cardinality was also discussed which is the number of elements it contains if A is a set and we denot it by *{A}*.
+
+#WEEK 7
+* This week, we started dicsussing about Functions and that it is sometimes called mappings or transformations.
+* I also learned how to determine the domian and codomain of a function.
+* Different types of Functions:
+  * One-To-One Function
+    * If and only if *f(a)=f(b)* implies that *a=b* for all *a* and *b* in the domain of *f*.
+  * Onto Function
+    * If the range and domain are equal and that every member of the codomain is the image of some elementof the domain.
+  * Bijection
+    * If it is both *one-to-one* and *onto*.
+    * Also called *one-to-one correspondence*.
