@@ -102,3 +102,8 @@ dismathportfolio-kienairaa created by Classroom for GitHub
      * It proceeds by comparing the element to be located to the middle term of the list.
      * The list is then split into two smaller sublists of the same size, or where one of these smaller listss has one fewer term than the other.
      * The search continues by restricting the search to the appropriate sublist based on the comparison of the element to be located and the middle term.
+
+
+
+
+Kien Aira D. Roldan//Dismath-EL
