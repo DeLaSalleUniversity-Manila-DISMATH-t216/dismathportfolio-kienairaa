@@ -26,6 +26,8 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 * This week, we were introduce to a new topic which is the different Methods of proofs.
 * I was able to easily understand Direct Proof and Proof by Contraposition becuase it seems to be just like proving using mathematical ways.
 * I think the easiest among the methods so far is the Vacuous and Trivial Proofs. Because in Vacuous Proof, we just need to show that p is false so that the given statement is already proven and in Trivial Proof, q must be proven to be true so that the statement will be proven true.
+* We discussed the last method of proof which is the Proof by Equivalence.
+* This proof is quite easy beacuse it is just proving that a biconditional is true using the other methods of proof.
 
 #WEEK 4
 * This week, we learned about Mathematical Induction.
@@ -37,17 +39,12 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 * Still, we need to prove that the equation we come up with is true using Mathematical Induction.
 * Then we were introduced with Recursive/Inductice Definition.
 * The first step is Basis step where we specify the value of the function at zero. And the  next step would be find an equation for finding the value of the integer.
-* Lastly, we were inrtoduced to Recursive Definition --an algorithm is recursive  if it solves a problem by reducing it to an instance of the same problem with smaller input.
+* Lastly, we were inrtoduced to Recursive Definition
+  * an algorithm is recursive  if it solves a problem by reducing it to an instance of the same problem with smaller input.
 
 #WEEK 5
-* This week, we discussed the last method of proof which is the Proof by Equivalence.
-* This proof is quite easy beacuse it is just proving that a biconditional is true using the other methods of proof.
-* now, we had Mathematical Induction.
-* We were also introduced to Recursive and Inductive Definition.
-* Recursive Algorithm and Program correctness were also introduced to us.
-
-#WEEK 6
-* We continued the discussion about program correctness where we need to prove that the program always gives the correct output.
+* Recursive Algorithm and Program correctness were introduced to us.
+* * We continued the discussion about program correctness where we need to prove that the program always gives the correct output.
 * There are two step two verify a program:
   * 1.) show that the correct answer is obtained if the program teminates (prgram correctness) and 
   * 2.) show that the program always terminates.
@@ -64,10 +61,11 @@ dismathportfolio-kienairaa created by Classroom for GitHub
   * Set Difference
   * Symetric Difference
 * I also learned that if all elements of Set A are also elements of B, then set a is a subset of B.
-* Power Set were also introduced to our class.
-* Cardinality was also discussed which is the number of elements it contains if A is a set and we denot it by *{A}*.
+* Power Series were also introduced to our class.
 
-#WEEK 7
+#WEEK 6
+
+* Cardinality was also discussed which is the number of elements it contains if A is a set and we denot it by *{A}*.
 * This week, we started dicsussing about Functions and that it is sometimes called mappings or transformations.
 * I also learned how to determine the domian and codomain of a function.
 * Different types of Functions:
@@ -78,3 +76,29 @@ dismathportfolio-kienairaa created by Classroom for GitHub
   * Bijection
     * If it is both *one-to-one* and *onto*.
     * Also called *one-to-one correspondence*.
+
+#WEEK 7
+*No classes
+
+#WEEK 8
+*Algorithm
+  * a finite set vof precise insrtuctions for performing a computation or for solving as problem
+* We were taught on how to find the maximum and minimum value in a finite sequence of integers using the first example given.
+* We solve a probelm in algorithm by providing a *Pseudocode*.
+* Pseudocode
+  * a high-level desciprtion of an algorithm that uses structural convention of a programming language, but is intended for human reading
+*Properties of Algorithms
+  * Input
+  * Output
+  * Definiteness
+  * Correctness
+  * Finiteness
+  * Effectiveness
+  * Generality
+ * We were also intrpduced to the different *Searching Algorithms*.
+   * Linear Search
+     *Also called *Sequential Search*
+   * Binary Search
+     * It proceeds by comparing the element to be located to the middle term of the list.
+     * The list is then split into two smaller sublists of the same size, or where one of these smaller listss has one fewer term than the other.
+     * The search continues by restricting the search to the appropriate sublist based on the comparison of the element to be located and the middle term.
