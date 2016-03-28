@@ -81,7 +81,7 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 *No classes
 
 #WEEK 8
-*Algorithm
+* Algorithm
   * a finite set vof precise insrtuctions for performing a computation or for solving as problem
 * We were taught on how to find the maximum and minimum value in a finite sequence of integers using the first example given.
 * We solve a probelm in algorithm by providing a *Pseudocode*.
@@ -102,6 +102,37 @@ dismathportfolio-kienairaa created by Classroom for GitHub
      * It proceeds by comparing the element to be located to the middle term of the list.
      * The list is then split into two smaller sublists of the same size, or where one of these smaller listss has one fewer term than the other.
      * The search continues by restricting the search to the appropriate sublist based on the comparison of the element to be located and the middle term.
+
+
+#WEEK 9
+* This week, we were ntroudced to *Sorting Algorithm*.
+* Sorting is putting the elements of a set into amlist which these elements sre in increasing order.
+* Types of Sorting
+  * The Bubble Sort
+    * It puts a list into increasing order by successively comparing adjacent elements, interchanging them if they are in the wrong order.
+  * The Insertion Sort
+    * It compares the second lement with the first elementand inserts it before the first element if it does not exceed the first element and after the first element if it exceeds the first element.
+ * We were also introduced to *Greedy Algorithms*
+ * Greedy Algorithms
+   * Algorithms that make what seems to be the "best" choice in each step.
+   * Selects the best choice at each stepp, instead of considering all sequences of steps that may lead to an optimal solution.
+
+#WEEK 10
+* This week, we learned about the *Growth of Functions*.
+* This Growth of Function is describes using *The Big-O Notation*.
+* Big-O Notation (upperbound)
+   * Let *f* and *g* be functions from the set of integers or the set of real numbers to the set of numbers.
+   * *f(x)* is *O(g(x))* if there are constants *C* and *k* such that *|f(x)| <= C|g(x)|* whenever *x > k*.
+* Big-Omega Notation (lowerbound)
+* Big-Theta Notation
+   * We use this notation when we want to give both an upper and a lower bound on the size of a function *f(x)*, relative to a reference function *g(x)*
+* We also learned about the *Complexity of Algorithms*.
+* Time Complexity
+   * It can be expressed in terms of the number of operations used by the algorithm when ther input has a particular size.
+   * Worst-Case Complexity
+     * By the worst-case performance of an algorithm, we mean the largest number of operations needed to solve the given problem using the algorithm on input os specified size.
+     * Worst-case analysis tells us how many operation an algorithm requires to guarantee that it will produce a solution.
+* This week we were also introduced to a new topic which is the *Division* and *Modulo Operator*.
 
 
 
