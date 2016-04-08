@@ -116,6 +116,8 @@ dismathportfolio-kienairaa created by Classroom for GitHub
  * Greedy Algorithms
    * Algorithms that make what seems to be the "best" choice in each step.
    * Selects the best choice at each stepp, instead of considering all sequences of steps that may lead to an optimal solution.
+ * Since I know I am not verygood at computer programming, it was quite hard for me to follow the discusion.
+ * Though weonly used pseudocode for this algorithm, it was stilla bit concfusing for me.
 
 #WEEK 10
 * This week, we learned about the *Growth of Functions*.
@@ -126,13 +128,24 @@ dismathportfolio-kienairaa created by Classroom for GitHub
 * Big-Omega Notation (lowerbound)
 * Big-Theta Notation
    * We use this notation when we want to give both an upper and a lower bound on the size of a function *f(x)*, relative to a reference function *g(x)*
+ This Notationsarequiteconfusing for me especially when you try to prove is afunctions is a notationof the given.
 * We also learned about the *Complexity of Algorithms*.
 * Time Complexity
    * It can be expressed in terms of the number of operations used by the algorithm when ther input has a particular size.
    * Worst-Case Complexity
      * By the worst-case performance of an algorithm, we mean the largest number of operations needed to solve the given problem using the algorithm on input os specified size.
      * Worst-case analysis tells us how many operation an algorithm requires to guarantee that it will produce a solution.
+* When we learned this timecomplexity,i understand whatwas being toldabout it but when complicated given ariose, it got me so confused on how to getthecomplexity of a function.
+* It was difficultforme maybe also because I got a hard time udenrstanding how to prove that a function is anotationof something and getting the time complexity is easier if you haveyourt Big-Theta Notation.
 * This week we were also introduced to a new topic which is the *Division* and *Modulo Operator*.
+* This topic was way more easier than the previous one because itonly involves division which we learned since our elementary days.
+
+#WEEk 11
+* No classes
+
+#WEEK 12
+* This week we started Graph Theory.
+* 
 
 
 
