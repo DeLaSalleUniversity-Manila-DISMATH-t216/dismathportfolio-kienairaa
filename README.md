@@ -1,7 +1,7 @@
 # dismathportfolio-kienairaa
 dismathportfolio-kienairaa created by Classroom for GitHub
 
-Roldan, kien Aira D.   DISMATH EL
+Roldan, Kien Aira D.   DISMATH EL
 
 #WEEK 1
 * This first week I was introduced to a new course of Discrete Mathematics.
